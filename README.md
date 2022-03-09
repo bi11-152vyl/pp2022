@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Vũ Yến Linh
-* Student ID: BI11-152
+* Student Name: 
+* Student ID: 
